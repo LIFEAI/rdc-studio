@@ -1,0 +1,28 @@
+{
+  "name": "@lifeaitools/rdc-studio",
+  "version": "0.1.0",
+  "description": "RDC Studio design tooling skill suite for Claude Code — impeccable UI design system",
+  "keywords": [
+    "claude-code",
+    "claude-code-plugin",
+    "rdc",
+    "studio",
+    "design",
+    "impeccable",
+    "ai-agents"
+  ],
+  "author": "LIFEAI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LIFEAI/rdc-studio.git"
+  },
+  "claude": {
+    "type": "plugin",
+    "skills": "skills/",
+    "version": "0.1.0"
+  },
+  "scripts": {
+    "install-rdc-studio": "node scripts/install-rdc-studio.js"
+  }
+}

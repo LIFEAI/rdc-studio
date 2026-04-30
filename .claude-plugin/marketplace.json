@@ -1,0 +1,10 @@
+{
+  "name": "rdc-studio",
+  "version": "0.1.0",
+  "description": "RDC Studio design tooling — impeccable UI/UX skill suite",
+  "publisher": "LIFEAI",
+  "repository": "https://github.com/LIFEAI/rdc-studio",
+  "skills": [
+    "impeccable"
+  ]
+}
