@@ -1,6 +1,6 @@
 {
   "name": "@lifeaitools/rdc-studio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "RDC Studio design tooling skill suite for Claude Code — impeccable UI design system",
   "keywords": [
     "claude-code",
